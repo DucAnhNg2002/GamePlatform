@@ -1,4 +1,5 @@
 Giới thiệu về game:  
+
 ##### Nhiệm vụ:  
 Di chuyển và đẩy hòn đá một cách hợp lý để mở khóa cảnh cửa dành chiến thắng.  
 
