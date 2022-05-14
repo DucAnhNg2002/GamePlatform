@@ -13,4 +13,6 @@ Di chuyển và đẩy hòn đá một cách hợp lý để mở khóa cảnh c
 Tải về và vào thư mục Debug chạy file gameCPP.exe  
 
 Sản phẩm đầu tiên. Game còn nhiều bug và code chưa khoa học lắm @.@  
+  
+  
 ![demo](https://user-images.githubusercontent.com/93191061/168420482-9a21b44a-df91-4d6c-8142-41359ac0002d.png)
